@@ -1,0 +1,11 @@
+name = "terrain_tui"
+description = "An easy-to-use TUI for the terrain-gen library"
+version = "0.1.0-dev"
+
+authors = ["Geyer Artúr"]
+maintainers = ["Geyer Artúr <geyerartur.dev@proton.me>"]
+licenses = "PolyForm-Noncommercial-1.0.0"
+website = ""
+tags = []
+
+executables = ["terrain_tui"]

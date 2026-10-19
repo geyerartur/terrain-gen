@@ -1,0 +1,5 @@
+external:LIBRARY_TYPE=default
+external:TERRAIN_CORE_LIBRARY_TYPE=default
+profile:terrain_core=RELEASE
+switches:terrain_core=-O3,-fdata-sections,-ffunction-sections,-gnatW8,-gnatn
+version:gnat_native=16.1.0

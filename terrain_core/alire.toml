@@ -1,0 +1,9 @@
+name = "terrain_core"
+description = "A hyper-realistic terrain generator"
+version = "0.1.0-dev"
+
+authors = ["Geyer Artúr"]
+maintainers = ["Geyer Artúr <geyerartur.dev@proton.me>"]
+licenses = "PolyForm-Noncommercial-1.0.0"
+website = ""
+tags = []

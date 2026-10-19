@@ -1,0 +1,5 @@
+dependency:terrain_core=0.1.0-dev=ab475f806b895b292bad250e6c6799d46075ed21ea197cce76e44b42b1242c48
+external:LIBRARY_TYPE=default
+external:TERRAIN_TUI_LIBRARY_TYPE=default
+profile:terrain_tui=DEVELOPMENT
+switches:terrain_tui=-Og,-fdata-sections,-ffunction-sections,-g,-gnatVa,-gnatW8,-gnatw.X,-gnatwa,-gnaty-d,-gnaty3,-gnatyA,-gnatyB,-gnatyI,-gnatyO,-gnatyS,-gnatya,-gnatyb,-gnatyc,-gnatye,-gnatyf,-gnatyh,-gnatyi,-gnatyk,-gnatyl,-gnatym,-gnatyn,-gnatyp,-gnatyr,-gnatyt,-gnatyu,-gnatyx
